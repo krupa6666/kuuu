@@ -1,0 +1,7 @@
+<!DOC type html>
+<html>
+<head>
+<body>
+i am krupa
+</body>
+</html>
